@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="google-site-verification" content="kode_verifikasi_panjang_di_sini" />
+    <meta name="google-site-verification" content="VrCE8j8LFZq8nIuRavE8qYxFmYag2j7um571qK5kzCQ" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PUSDIKZI TNI AD</title>
     <link rel="icon" type="image/png" href="/assets/images/logo-zeni.png">
